@@ -1,7 +1,4 @@
 
----
-
-```md
 # VN30F1M Data Processing & Model Training
 
 ## 1. Giới thiệu
